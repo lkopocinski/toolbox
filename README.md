@@ -105,7 +105,7 @@
 - [ ] [Altair Declarative Visualization in Python.](https://github.com/altair-viz/altair)
 - [ ] [Redash helps you make sense of your data.](https://github.com/getredash/redash)
 - [ ] [Grafana - The open observability platform.](https://github.com/grafana/grafana)
-- [ ] [Datashader - Quickly and accurately render even the largest data.](https://github.com/holoviz/datashader/)
+- [x] [Datashader - Quickly and accurately render even the largest data.](https://github.com/holoviz/datashader/)
 
 ### Scalability
 - [ ] [Dask: Scalable analytics in Python](https://github.com/dask/dask)
