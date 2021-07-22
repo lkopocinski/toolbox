@@ -116,3 +116,8 @@
 ### Other
 - [ ] [celery - Distributed Task Queue (development branch).](https://github.com/celery/celery)
 - [ ] [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python.](https://github.com/hyperopt/hyperopt)
+
+
+
+#### Operational
+- [x] [Web Search Navigator - Browser extension that adds configurable keyboard shortcuts to Google search](https://github.com/infokiller/web-search-navigator)
