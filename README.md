@@ -6,6 +6,7 @@
 - [x] [MLflow](https://github.com/mlflow/mlflow/)
 
 ### Data
+- [x] [pandas - open source data analysis and manipulation tool](https://github.com/pandas-dev/pandas)
 - [ ] [pyjanitor - Clean APIs for data cleaning.](https://github.com/pyjanitor-devs/pyjanitor)
 
 
