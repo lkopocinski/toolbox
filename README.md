@@ -96,7 +96,12 @@
 - [ ] [doccano - Open source text annotation tool for humans](https://github.com/doccano/doccano)
 - [ ] [label-studio - Label Studio is a multi-type data labeling and annotation tool with standardized output format](https://github.com/heartexlabs/label-studio)
 
+### ML
+- [x] [scikit-learn - Python module for machine learning built on top of SciPy.](https://github.com/scikit-learn/scikit-learn)
+
+
 ### Deep Learning
+- [x] [pytorch - Deep neural networks built on a tape-based autograd system.](https://github.com/pytorch/pytorch)
 - [ ] [Thinc - A refreshing functional take on deep learning](https://github.com/explosion/thinc)
 - [ ] [Writing better code with pytorch + einops](http://einops.rocks/pytorch-examples.html)
 - [ ] [pytorch-lightning - The lightweight PyTorch wrapper for high-performance AI research.](https://github.com/PyTorchLightning/pytorch-lightning)
