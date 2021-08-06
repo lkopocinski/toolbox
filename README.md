@@ -2,11 +2,12 @@
 
 ### MLOps
 - [x] [Data Version Control](https://github.com/iterative/dvc)
-- [ ] [Continuous Machine Learning](https://github.com/iterative/cml)
 - [x] [MLflow](https://github.com/mlflow/mlflow/)
+- [ ] [Continuous Machine Learning](https://github.com/iterative/cml)
 
 ### Data
-- [x] [pandas - open source data analysis and manipulation tool](https://github.com/pandas-dev/pandas)
+- [x] [pandas - open source data analysis and manipulation tool.](https://github.com/pandas-dev/pandas)
+- [x] [numpy - fundamental package needed for scientific computing with Python.](https://github.com/numpy/numpy)
 - [ ] [pyjanitor - Clean APIs for data cleaning.](https://github.com/pyjanitor-devs/pyjanitor)
 
 
@@ -29,6 +30,7 @@
 - [x] [Dash](https://github.com/plotly/dash)
 
 ### Jupyter Notebooks
+- [x] [jupyterlab - Next-generation user interface for Project Jupyter](https://github.com/jupyterlab/jupyterlab)
 - [x] [papermill - Parameterize, execute, and analyze notebooks.](https://github.com/nteract/papermill)
 - [ ] [reviewnb - Diffs & Commenting for Jupyter Notebooks.](https://www.reviewnb.com/)
 - [ ] [nbdime - Tools for diffing and merging of Jupyter notebooks.](https://github.com/jupyter/nbdime)
