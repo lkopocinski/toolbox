@@ -107,7 +107,8 @@
 - [ ] [pytorch-lightning - The lightweight PyTorch wrapper for high-performance AI research.](https://github.com/PyTorchLightning/pytorch-lightning)
 
 ### Visualization
-- [x] [matplotlib - comprehensive library for creating static, animated, and interactive visualizations in Python](https://github.com/matplotlib/matplotlib)
+- [x] [matplotlib - Comprehensive library for creating static, animated, and interactive visualizations in Python](https://github.com/matplotlib/matplotlib)
+- [x] [seaborn - Python visualization library based on matplotlib ](https://github.com/mwaskom/seaborn)
 - [ ] [deck.gl - WebGL2 powered geospatial visualization layers.](https://github.com/visgl/deck.gl)
 - [ ] [Altair Declarative Visualization in Python.](https://github.com/altair-viz/altair)
 - [ ] [Redash helps you make sense of your data.](https://github.com/getredash/redash)
