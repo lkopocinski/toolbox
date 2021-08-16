@@ -9,6 +9,7 @@
 - [x] [pandas - open source data analysis and manipulation tool.](https://github.com/pandas-dev/pandas)
 - [x] [numpy - fundamental package needed for scientific computing with Python.](https://github.com/numpy/numpy)
 - [ ] [pyjanitor - Clean APIs for data cleaning.](https://github.com/pyjanitor-devs/pyjanitor)
+- [x] [great_expectations - Helps data teams eliminate pipeline debt, through data testing, documentation, and profiling.](https://github.com/great-expectations/great_expectations)
 
 
 ### Scrappers
